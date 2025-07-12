@@ -20,6 +20,11 @@ SnackGo is a UI/UX design concept inspired by apps like Swiggy and Zomato, built
 The .fig file is included:  
 - food ordering app.fig
 
+## ✨ Preview
+https://www.figma.com/proto/hDymDdlV23vz8kR8fIxgfi/food-ordering-app?node-id=0-1&t=sM15lo6uoSuxmn42-1
+
+## 📄 License
+This design is shared for learning and inspiration purposes.
 
 
 
